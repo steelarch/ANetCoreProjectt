@@ -1,0 +1,16 @@
+i
+`/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/Pages/Error.cshtml.csutf-8i
+`/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/Pages/Index.cshtml.csutf-8k
+b/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/Pages/Privacy.cshtml.csutf-8^
+U/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/Program.csutf-8à
+}/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/obj/Debug/net6.0/ANetCoreProject.GlobalUsings.g.csutf-8ñ
+ä/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8Ü
+{/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/obj/Debug/net6.0/ANetCoreProject.AssemblyInfo.csutf-8å
+Ä/mnt/c/Users/mucahit.celikyay/source/repos/ANetCoreProject/ANetCoreProject/obj/Debug/net6.0/ANetCoreProject.RazorAssemblyInfo.csutf-8â
+~Microsoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages_Error_cshtml.g.csutf-8â
+~Microsoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages_Index_cshtml.g.csutf-8å
+ÄMicrosoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages_Privacy_cshtml.g.csutf-8•
+ôMicrosoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages_Shared__ValidationScriptsPartial_cshtml.g.csutf-8ë
+ÖMicrosoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages__ViewImports_cshtml.g.csutf-8è
+ÉMicrosoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages__ViewStart_cshtml.g.csutf-8ì
+áMicrosoft.NET.Sdk.Razor.SourceGenerators/Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator/Pages_Shared__Layout_cshtml.g.csutf-8

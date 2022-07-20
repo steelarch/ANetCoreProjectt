@@ -1,0 +1,6 @@
+projectKey=ANetCore
+serverUrl=http://192.168.1.22:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://192.168.1.22:9000/dashboard?id=ANetCore
+ceTaskId=AYIbKdVEDMnwQcBnUFRT
+ceTaskUrl=http://192.168.1.22:9000/api/ce/task?id=AYIbKdVEDMnwQcBnUFRT
